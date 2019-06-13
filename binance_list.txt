@@ -1,0 +1,139 @@
+25	TRON TRON	TRX/BTC	$13.766.834	$0,034170	0,79%	Spot	Percentage	Recently
+26	QuarkChain QuarkChain	QKC/BTC	$13.733.071	$0,026062	0,78%	Spot	Percentage	Recently
+27	Fetch Fetch	FET/BTC	$13.505.035	$0,211811	0,77%	Spot	Percentage	Recently
+30	Cosmos Cosmos	ATOM/BTC	$12.340.361	$6,36	0,70%	Spot	Percentage	Recently
+31	Bitcoin Bitcoin	BTC/TUSD	$12.261.904	$8.150,23	0,70%	Spot	Percentage	Recently
+35	Ardor Ardor	ARDR/BTC	$10.373.433	$0,108501	0,59%	Spot	Percentage	Recently
+37	Etherparty Etherparty	FUEL/BTC	$10.100.417	$0,009555	0,58%	Spot	Percentage	Recently
+39	Celer Network Celer Network	CELR/BTC	$7.975.997	$0,019182	0,46%	Spot	Percentage	Recently
+43	NEO NEO	NEO/BTC	$6.844.302	$12,53	0,39%	Spot	Percentage	Recently
+44	Waves Waves	WAVES/BTC	$6.825.092	$2,40	0,39%	Spot	Percentage	Recently
+45	Ravencoin Ravencoin	RVN/BTC	$6.785.216	$0,065154	0,39%	Spot	Percentage	Recently
+48	Mainframe Mainframe	MFT/BTC	$6.311.754	$0,003966	0,36%	Spot	Percentage	Recently
+49	Zcoin Zcoin	XZC/BTC	$6.072.690	$9,04	0,35%	Spot	Percentage	Recently
+51	IOTA IOTA	IOTA/BTC	$4.931.931	$0,450360	0,28%	Spot	Percentage	Recently
+52	VeChain VeChain	VET/BTC	$4.777.606	$0,007851	0,27%	Spot	Percentage	Recently
+54	Stellar Stellar	XLM/BTC	$4.658.485	$0,129958	0,27%	Spot	Percentage	Recently
+55	Monero Monero	XMR/BTC	$4.648.454	$89,35	0,27%	Spot	Percentage	Recently
+56	Theta Fuel Theta Fuel	TFUEL/BTC	$4.630.934	$0,014407	0,26%	Spot	Percentage	Recently
+57	HyperCash HyperCash	HC/BTC	$4.249.948	$2,14	0,24%	Spot	Percentage	Recently
+58	Enjin Coin Enjin Coin	ENJ/BTC	$4.169.547	$0,154250	0,24%	Spot	Percentage	Recently
+v59	Basic Attention Token Basic Attention Token	BAT/BTC	$3.800.131	$0,347770	0,22%	Spot	Percentage	Recently
+64	Enigma Enigma	ENG/BTC	$3.428.562	$0,621128	0,20%	Spot	Percentage	Recently
+67	ICON ICON	ICX/BTC	$3.220.333	$0,386231	0,18%	Spot	Percentage	Recently
+68	Waltonchain Waltonchain	WTC/BTC	$3.213.145	$2,16	0,18%	Spot	Percentage	Recently
+69	Status Status	SNT/BTC	$3.117.638	$0,029716	0,18%	Spot	Percentage	Recently
+70	Nano Nano	NANO/BTC	$3.062.266	$1,62	0,17%	Spot	Percentage	Recently
+71	Metal Metal	MTL/BTC	$3.049.247	$0,507687	0,17%	Spot	Percentage	Recently
+72	Ambrosus Ambrosus	AMB/BTC	$3.025.512	$0,050202	0,17%	Spot	Percentage	Recently
+74	OmiseGO OmiseGO	OMG/BTC	$2.963.775	$2,05	0,17%	Spot	Percentage	Recently
+75	Red Pulse Phoenix Red Pulse Phoenix	PHB/BTC	$2.665.771	$0,020000	0,15%	Spot	Percentage	Recently
+76	Zcash Zcash	ZEC/BTC	$2.645.539	$84,49	0,15%	Spot	Percentage	Recently
+77	Ethereum Classic Ethereum Classic	ETC/BTC	$2.639.157	$8,35	0,15%	Spot	Percentage	Recently
+81	Polymath Polymath	POLY/BTC	$2.469.648	$0,097651	0,14%	Spot	Percentage	Recently
+82	Dash Dash	DASH/BTC	$2.427.562	$151,36	0,14%	Spot	Percentage	Recently
+83	Everex Everex	EVX/BTC	$2.394.361	$0,783636	0,14%	Spot	Percentage	Recently
+85	aelf aelf	ELF/BTC	$2.279.800	$0,202103	0,13%	Spot	Percentage	Recently
+89	Wanchain Wanchain	WAN/BTC	$2.102.456	$0,474288	0,12%	Spot	Percentage	Recently
+91	Ontology Ontology	ONT/BTC	$2.035.183	$1,35	0,12%	Spot	Percentage	Recently
+92	Holo Holo	HOT/BTC	$1.975.525	$0,002023	0,11%	Spot	Percentage	Recently
+94	Verge Verge	XVG/BTC	$1.873.380	$0,009555	0,11%	Spot	Percentage	Recently
+98	BitTorrent BitTorrent	BTT/BTC	$1.649.951	$0,001376	0,09%	Spot	Percentage	Recently
+99	THETA THETA	THETA/BTC	$1.636.085	$0,135140	0,09%	Spot	Percentage	Recently
+104	NEM NEM	XEM/BTC	$1.547.008	$0,088015	0,09%	Spot	Percentage	Recently
+106	Time New Bank Time New Bank	TNB/BTC	$1.515.912	$0,005020	0,09%	Spot	Percentage	Recently
+107	Qtum Qtum	QTUM/BTC	$1.495.586	$3,21	0,09%	Spot	Percentage	Recently
+108	Tierion Tierion	TNT/BTC	$1.484.929	$0,033279	0,08%	Spot	Percentage	Recently
+111	0x 0x	ZRX/BTC	$1.416.202	$0,336353	0,08%	Spot	Percentage	Recently
+112	Gifto Gifto	GTO/BTC	$1.416.070	$0,036032	0,08%	Spot	Percentage	Recently
+114	Dent Dent	DENT/BTC	$1.381.597	$0,001943	0,08%	Spot	Percentage	Recently
+116	IOST IOST	IOST/BTC	$1.296.548	$0,011741	0,07%	Spot	Percentage	Recently
+118	Loom Network Loom Network	LOOM/BTC	$1.276.813	$0,080370	0,07%	Spot	Percentage	Recently
+122	Storm Storm	STORM/BTC	$1.180.324	$0,003563	0,07%	Spot	Percentage	Recently
+123	Decentraland Decentraland	MANA/BTC	$1.169.787	$0,057975	0,07%	Spot	Percentage	Recently
+128	Mithril Mithril	MITH/BTC	$1.121.787	$0,043058	0,06%	Spot	Percentage	Recently
+132	Bluzelle Bluzelle	BLZ/BTC	$1.063.908	$0,067258	0,06%	Spot	Percentage	Recently
+133	OAX OAX	OAX/BTC	$1.052.628	$0,210119	0,06%	Spot	Percentage	Recently
+135	Dock Dock	DOCK/BTC	$1.028.293	$0,013921	0,06%	Spot	Percentage	Recently
+136	Viberate Viberate	VIB/BTC	$1.024.091	$0,047125	0,06%	Spot	Percentage	Recently
+137	IoTeX IoTeX	IOTX/BTC	$1.019.612	$0,010603	0,06%	Spot	Percentage	Recently
+138	Aion Aion	AION/BTC	$1.014.422	$0,204856	0,06%	Spot	Percentage	Recently
+139	Tael Tael	WABI/BTC	$1.013.852	$0,312952	0,06%	Spot	Percentage	Recently
+140	AdEx AdEx	ADX/BTC	$990.325	$0,158784	0,06%	Spot	Percentage	Recently
+145	Komodo Komodo	KMD/BTC	$939.344	$1,60	0,05%	Spot	Percentage	Recently
+146	Power Ledger Power Ledger	POWR/BTC	$932.933	$0,123319	0,05%	Spot	Percentage	Recently
+147	Stratis Stratis	STRAT/BTC	$917.702	$0,912542	0,05%	Spot	Percentage	Recently
+151	Aeron Aeron	ARN/BTC	$888.668	$0,492870	0,05%	Spot	Percentage	Recently
+153	Kyber Network Kyber Network	KNC/BTC	$842.729	$0,263398	0,05%	Spot	Percentage	Recently
+155	GXChain GXChain	GXS/BTC	$833.981	$1,50	0,05%	Spot	Percentage	Recently
+159	Pundi X Pundi X	NPXS/BTC	$773.045	$0,000971	0,04%	Spot	Percentage	Recently
+161	GoChain GoChain	GO/BTC	$767.899	$0,024847	0,04%	Spot	Percentage	Recently
+162	BlockMason Credit Protocol BlockMason Credit Protocol	BCPT/BTC	$767.195	$0,064696	0,04%	Spot	Percentage	Recently
+164	Civic Civic	CVC/BTC	$752.889	$0,082995	0,04%	Spot	Percentage	Recently
+165	Bitcoin Gold Bitcoin Gold	BTG/BTC	$750.139	$26,66	0,04%	Spot	Percentage	Recently
+167	Crypto.com Crypto.com	MCO/BTC	$729.672	$6,03	0,04%	Spot	Percentage	Recently
+168	QLC Chain QLC Chain	QLC/BTC	$726.681	$0,040647	0,04%	Spot	Percentage	Recently
+169	Quantstamp Quantstamp	QSP/BTC	$721.354	$0,026477	0,04%	Spot	Percentage	Recently
+170	AppCoins AppCoins	APPC/BTC	$721.070	$0,093926	0,04%	Spot	Percentage	Recently
+171	CyberMiles CyberMiles	CMT/BTC	$711.008	$0,036599	0,04%	Spot	Percentage	Recently
+172	Storj Storj	STORJ/BTC	$695.492	$0,274329	0,04%	Spot	Percentage	Recently
+176	Nucleus Vision Nucleus Vision	NCASH/BTC	$669.609	$0,002266	0,04%	Spot	Percentage	Recently
+177	NULS NULS	NULS/BTC	$662.556	$0,803231	0,04%	Spot	Percentage	Recently
+180	Skycoin Skycoin	SKY/BTC	$614.059	$1,74	0,04%	Spot	Percentage	Recently
+181	Ark Ark	ARK/BTC	$604.998	$0,608901	0,03%	Spot	Percentage	Recently
+182	Siacoin Siacoin	SC/BTC	$595.233	$0,003239	0,03%	Spot	Percentage	Recently
+184	Genesis Vision Genesis Vision	GVT/BTC	$582.817	$3,57	0,03%	Spot	Percentage	Recently
+189	AirSwap AirSwap	AST/BTC	$557.336	$0,049068	0,03%	Spot	Percentage	Recently
+190	Po.et Po.et	POE/BTC	$537.381	$0,005587	0,03%	Spot	Percentage	Recently
+191	Ethos Ethos	BQX/BTC	$533.753	$0,128501	0,03%	Spot	Percentage	Recently
+192	Selfkey Selfkey	KEY/BTC	$533.505	$0,003563	0,03%	Spot	Percentage	Recently
+194	Agrello Agrello	DLT/BTC	$519.289	$0,111578	0,03%	Spot	Percentage	Recently
+195	Bitcoin Diamond Bitcoin Diamond	BCD/BTC	$512.444	$1,24	0,03%	Spot	Percentage	Recently
+196	Moeda Loyalty Points Moeda Loyalty Points	MDA/BTC	$511.734	$0,994646	0,03%	Spot	Percentage	Recently
+197	SingularityNET SingularityNET	AGI/BTC	$510.814	$0,051497	0,03%	Spot	Percentage	Recently
+198	Lisk Lisk	LSK/BTC	$507.525	$2,13	0,03%	Spot	Percentage	Recently
+199	OST OST	OST/BTC	$507.503	$0,027773	0,03%	Spot	Percentage	Recently
+203	Bitcoin Bitcoin	BTC/USDS	$497.612	$8.110,90	0,03%	Spot	Percentage	Recently
+204	Populous Populous	PPT/BTC	$495.085	$0,994323	0,03%	Spot	Percentage	Recently
+207	Steem Steem	STEEM/BTC	$466.939	$0,378134	0,03%	Spot	Percentage	Recently
+209	Nebulas Nebulas	NAS/BTC	$454.149	$1,14	0,03%	Spot	Percentage	Recently
+211	Augur Augur	REP/BTC	$452.299	$18,51	0,03%	Spot	Percentage	Recently
+212	Groestlcoin Groestlcoin	GRS/BTC	$447.435	$0,418862	0,03%	Spot	Percentage	Recently
+214	YOYOW YOYOW	YOYO/BTC	$439.086	$0,024858	0,03%	Spot	Percentage	Recently
+215	Monetha Monetha	MTH/BTC	$427.814	$0,023967	0,02%	Spot	Percentage	Recently
+219	VIBE VIBE	VIBE/BTC	$415.728	$0,048016	0,02%	Spot	Percentage	Recently
+220	Golem Golem	GNT/BTC	$407.850	$0,090687	0,02%	Spot	Percentage	Recently
+222	Insolar Insolar	INS/BTC	$398.162	$0,365179	0,02%	Spot	Percentage	Recently
+225	Syscoin Syscoin	SYS/BTC	$383.224	$0,066720	0,02%	Spot	Percentage	Recently
+228	Aeternity Aeternity	AE/BTC	$360.411	$0,512546	0,02%	Spot	Percentage	Recently
+229	Request Request	REQ/BTC	$358.668	$0,024048	0,02%	Spot	Percentage	Recently
+231	Ontology Gas Ontology Gas	ONG/BTC	$346.992	$0,422893	0,02%	Spot	Percentage	Recently
+233	POA Network POA Network	POA/BTC	$343.571	$0,034317	0,02%	Spot	Percentage	Recently
+237	Neblio Neblio	NEBL/BTC	$325.481	$1,28	0,02%	Spot	Percentage	Recently
+238	iExec RLC iExec RLC	RLC/BTC	$325.189	$0,431575	0,02%	Spot	Percentage	Recently
+240	Raiden Network Token Raiden Network Token	RDN/BTC	$320.829	$0,354248	0,02%	Spot	Percentage	Recently
+241	Nexus Nexus	NXS/BTC	$314.165	$0,373276	0,02%	Spot	Percentage	Recently
+242	WePower WePower	WPR/BTC	$312.150	$0,013678	0,02%	Spot	Percentage	Recently
+243	Viacoin Viacoin	VIA/BTC	$310.850	$0,567606	0,02%	Spot	Percentage	Recently
+244	Loopring Loopring	LRC/BTC	$307.182	$0,064291	0,02%	Spot	Percentage	Recently
+246	Lunyr Lunyr	LUN/BTC	$298.294	$2,58	0,02%	Spot	Percentage	Recently
+247	NavCoin NavCoin	NAV/BTC	$288.745	$0,228338	0,02%	Spot	Percentage	Recently
+252	district0x district0x	DNT/BTC	$268.045	$0,018461	0,02%	Spot	Percentage	Recently
+261	Gas Gas	GAS/BTC	$245.103	$3,01	0,01%	Spot	Percentage	Recently
+264	BitShares BitShares	BTS/BTC	$237.097	$0,064129	0,01%	Spot	Percentage	Recently
+265	Ripio Credit Network Ripio Credit Network	RCN/BTC	$229.243	$0,031579	0,01%	Spot	Percentage	Recently
+266	Blox Blox	CDT/BTC	$228.712	$0,010931	0,01%	Spot	Percentage	Recently
+267	PIVX PIVX	PIVX/BTC	$227.607	$0,677726	0,01%	Spot	Percentage	Recently
+269	ETHLend ETHLend	LEND/BTC	$215.898	$0,008664	0,01%	Spot	Percentage	Recently
+270	Decred Decred	DCR/BTC	$213.004	$26,79	0,01%	Spot	Percentage	Recently
+272	Streamr DATAcoin Streamr DATAcoin	DATA/BTC	$212.564	$0,024696	0,01%	Spot	Percentage	Recently
+275	SingularDTV SingularDTV	SNGLS/BTC	$206.193	$0,017814	0,01%	Spot	Percentage	Recently
+276	SONM SONM	SNM/BTC	$202.739	$0,028340	0,01%	Spot	Percentage	Recently
+277	Cindicator Cindicator	CND/BTC	$200.459	$0,018947	0,01%	Spot	Percentage	Recently
+280	Horizen Horizen	ZEN/BTC	$188.372	$10,15	0,01%	Spot	Percentage	Recently
+293	Bread Bread	BRD/BTC	$161.872	$0,439753	0,01%	Spot	Percentage	Recently
+296	Ren Ren	REN/BTC	$153.239	$0,042348	0,01%	Spot	Percentage	Recently
+298	DigixDAO DigixDAO	DGD/BTC	$142.117	$33,34	0,01%	Spot	Percentage	Recently
+301	FunFair FunFair	FUN/BTC	$134.256	$0,006478	0,01%	Spot	Percentage	Recently
+316	Bancor Bancor	BNT/BTC	$111.802	$0,706066	0,01%	Spot	Percentage	Recently
+326	Eidoo Eidoo	EDO/BTC	$100.345	$0,812138	0,01%	Spot	Percentage	Recently
